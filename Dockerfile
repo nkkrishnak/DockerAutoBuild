@@ -1,3 +1,3 @@
-From centos:7
+FROM centos:7
 MAINTAINER nkkrishnak
 CMD echo hello
